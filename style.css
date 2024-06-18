@@ -1,0 +1,54 @@
+div {
+    width: 478px;
+    height: 789px;
+    border: 1px solid rgba(244, 180, 180, 0.48);
+    background-color: rgba(245, 245, 245, 1);
+    border-radius: 10px;
+    margin-left: 500px;
+    margin-top: 131px;
+    
+}
+table {
+    margin-left: 70px;
+    margin-top: 200px;
+}
+img {
+    width: 350px;
+    height: 200px;
+    margin-left: 70px;
+    margin-top: 50px;
+    
+}
+
+.email {
+    width: 315px;
+    height: 45px;
+    border: 1px solid rgba(244, 180, 180, 0.48);
+    border-radius: 10px;
+    margin-bottom: 70px;
+}
+
+.email::placeholder {
+    color: rgba(158, 158, 158, 1);
+}
+.button {
+    width: 315px;
+    height: 45px;
+    border-radius: 10px;
+    border: 1px solid rgba(103, 86, 203, 1);
+    background-color:  rgba(103, 86, 203, 1);
+    margin-left: 2px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.password {
+    width: 315px;
+    height: 45px;
+    border: 1px solid rgba(244, 180, 180, 0.48);
+    border-radius: 10px;
+    outline: none;
+}
+.email {
+    text-align: start;
+    outline: none;
+}
